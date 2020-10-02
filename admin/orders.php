@@ -32,7 +32,7 @@
 					<tr>
 						<th scope="row"><?php echo $r['id']; ?></th>
 						<td><?php echo $r['firstname']. " " . $r['lastname']; ?></td>
-						<td><?php echo $r['totalprice']; ?></td>
+						<td>BDT <?php echo $r['totalprice']; ?></td>
 						<td><?php echo $r['orderstatus']; ?></td>
 						<td><?php echo $r['paymentmode']; ?></td>
 						<td><?php echo $r['timestamp']; ?></td>

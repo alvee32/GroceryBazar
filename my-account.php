@@ -56,7 +56,7 @@ $cart = $_SESSION['cart'];
 							<?php echo $ordr['paymentmode']; ?>
 						</td>
 						<td>
-							INR <?php echo $ordr['totalprice']; ?>/-
+							BDT <?php echo $ordr['totalprice']; ?>/-
 						</td>
 						<td>
 							<a href="view-order.php?id=<?php echo $ordr['id']; ?>">View</a>
