@@ -48,7 +48,7 @@
           <img src="dist/img/zerin.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block"> Zerin Anan</a>
+          <a href="#" class="d-block"> Ashraful Islam</a>
         </div>
       </div>
       </div>
@@ -213,7 +213,7 @@
                       <label for="todoCheck1"></label>
                     </div>
                     <!-- todo text -->
-                    <span class="text">Design a nice theme</span>
+                    <span class="text">Deliver our next product</span>
                     <!-- Emphasis label -->
                     <small class="badge badge-danger"><i class="far fa-clock"></i> 2 mins</small>
                     <!-- General tools such as edit or delete-->
@@ -231,7 +231,7 @@
                       <input type="checkbox" value="" name="todo2" id="todoCheck2" checked>
                       <label for="todoCheck2"></label>
                     </div>
-                    <span class="text">Make the theme responsive</span>
+                    <span class="text">Response processing orders</span>
                     <small class="badge badge-info"><i class="far fa-clock"></i> 4 hours</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
@@ -247,7 +247,7 @@
                       <input type="checkbox" value="" name="todo3" id="todoCheck3">
                       <label for="todoCheck3"></label>
                     </div>
-                    <span class="text">Let theme shine like a star</span>
+                    <span class="text">Add new products</span>
                     <small class="badge badge-warning"><i class="far fa-clock"></i> 1 day</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
@@ -263,7 +263,7 @@
                       <input type="checkbox" value="" name="todo4" id="todoCheck4">
                       <label for="todoCheck4"></label>
                     </div>
-                    <span class="text">Let theme shine like a star</span>
+                    <span class="text">Check Database for order tracking</span>
                     <small class="badge badge-success"><i class="far fa-clock"></i> 3 days</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
@@ -279,7 +279,7 @@
                       <input type="checkbox" value="" name="todo5" id="todoCheck5">
                       <label for="todoCheck5"></label>
                     </div>
-                    <span class="text">Check your messages and notifications</span>
+                    <span class="text">Check messages of Contact Form</span>
                     <small class="badge badge-primary"><i class="far fa-clock"></i> 1 week</small>
                     <div class="tools">
                       <i class="fas fa-edit"></i>
