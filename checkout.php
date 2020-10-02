@@ -129,7 +129,7 @@ $r = mysqli_fetch_assoc($res);
 		<div class="content-blog">
 					<div class="page_header text-center">
 						<h2>Shop - Checkout</h2>
-						<p>Get the best kit for smooth shave</p>
+						<p>Please enter your billing addrss</p>
 					</div>
 <form method="post">
 <div class="container">
@@ -211,7 +211,7 @@ $r = mysqli_fetch_assoc($res);
 				<tbody>
 					<tr>
 						<th>Cart Subtotal</th>
-						<td><span class="amount">£190.00</span></td>
+						<td><span class="amount">BDT 190.00</span></td>
 					</tr>
 					<tr>
 						<th>Shipping and Handling</th>
@@ -221,7 +221,7 @@ $r = mysqli_fetch_assoc($res);
 					</tr>
 					<tr>
 						<th>Order Total</th>
-						<td><strong><span class="amount">£190.00</span></strong> </td>
+						<td><strong><span class="amount">BDT 190.00</span></strong> </td>
 					</tr>
 				</tbody>
 			</table>

@@ -64,7 +64,7 @@ if(isset($_POST) & !empty($_POST)){
 						<div class="col-md-7 product-single">
 							<h2 class="product-single-title no-margin"><?php echo $prodr['name']; ?></h2>
 							<div class="space10"></div>
-							<div class="p-price">INR <?php echo $prodr['price']; ?>.00/-</div>
+							<div class="p-price">BDT <?php echo $prodr['price']; ?>.00/-</div>
 							<p><?php echo $prodr['description']; ?></p>
 							<form method="get" action="addtocart.php">
 							<div class="product-quantity">
@@ -254,7 +254,7 @@ if(isset($_POST) & !empty($_POST)){
 											<span class="fa fa-star act"></span>
 										</div>
 										<h2 class="product-title"><a href="#"><?php echo $relr['name']; ?></a></h2>
-										<div class="product-price">INR <?php echo $relr['price']; ?>.00/-<span></span></div>
+										<div class="product-price">BDT <?php echo $relr['price']; ?>.00/-<span></span></div>
 									</div>
 								</div>
 							<?php } ?>

@@ -2,7 +2,7 @@
 				<div id="mobnav-btn">Menu <i class="fa fa-bars"></i></div>
 				<ul class="sf-menu">
 					<li>
-						<a href="http://localhost:8888/ecomshop/index.php">Home</a>
+						<a href="http://localhost:8888/GroceryBazar/index.php">Home</a>
 					</li>
 					<li>
 						<a href="#">Shop</a>
@@ -21,9 +21,9 @@
 						<a href="#">My Account</a>
 						<div class="mobnav-subarrow"><i class="fa fa-plus"></i></div>
 						<ul>
-							<li><a href="http://localhost:8888/ecomshop/my-account.php">My Orders</a></li>
-							<li><a href="http://localhost:8888/ecomshop/edit-address.php">Update Address</a></li>
-							<li><a href="http://localhost:8888/ecomshop/logout.php">Logout</a></li>
+							<li><a href="http://localhost:8888/GroceryBazar/my-account.php">My Orders</a></li>
+							<li><a href="http://localhost:8888/GroceryBazar/edit-address.php">Update Address</a></li>
+							<li><a href="http://localhost:8888/GroceryBazar/logout.php">Logout</a></li>
 						</ul>
 					</li>
 					<li>
@@ -90,3 +90,4 @@
 			</div>
 		</div>
 	</header>
+

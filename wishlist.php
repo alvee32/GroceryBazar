@@ -45,7 +45,7 @@ $cart = $_SESSION['cart'];
 							<a href="single.php?id=<?php echo $wishr['pid']; ?>"><?php echo $wishr['name']; ?></a>
 						</td>
 						<td>
-							INR <?php echo $wishr['price']; ?> /-
+							BDT <?php echo $wishr['price']; ?> /-
 						</td>
 						<td>
 							<?php echo $wishr['timestamp']; ?>			
