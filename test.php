@@ -43,7 +43,9 @@ include 'inc/nav.php'; ?>
 								<div class="form-group">
 									<div class="col-md-12">
 										<label>Message</label>
-										<input type="message" name="message" value="" class="form-control">
+                                        <!-- <input type="message" name="message" value="" class="form-control"> -->
+                                        <textarea class="form-control" name="message" cols="10"> </textarea>
+
 									</div>
 								</div>
 							</div>
